@@ -19,4 +19,4 @@ public class Lab4 {
   b.s22(c);
   }
 }
-previous : 1
+previous : 2
